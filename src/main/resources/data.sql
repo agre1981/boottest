@@ -1,0 +1,1 @@
+MERGE INTO Person KEY(id) VALUES('d39a2373da374168a41c8bfb6247f4fd', 'First Name', 'Last Name');
